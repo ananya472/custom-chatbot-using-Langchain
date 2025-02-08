@@ -1,0 +1,404 @@
+[
+    {
+      "title": "LEARN SCRATCH PROGRAMING",
+      "description": "Scratch Course is the foundation of coding and is a building block of a coding journey.",
+      "lessons": 16,
+      "price_per_session": "$30"
+    },
+    {
+      "title": "LEARN CLOUD COMPUTING BASICS - AWS",
+      "description": "In this course, we are going to cover the basics and the most important services on AWS.",
+      "lessons": 20,
+      "price_per_session": "$30"
+    },
+    {
+      "title": "LEARN MOBILE DEVELOPMENT",
+      "description": "Mobile application development is the process of creating software applications that run on mobile devices.",
+      "lessons": 24,
+      "price_per_session": "$30"
+    },
+    {
+      "title": "LEARN CORE JAVA PROGRAMMING ONLINE",
+      "description": "Java is a very popular high-level, class-based, object-oriented programming language.",
+      "lessons": 41,
+      "price_per_session": "$30"
+    },
+    {
+      "title": "LEARN ROBOTICS",
+      "description": "Gain a basic understanding of electronics and robotics to advance in multiple careers.",
+      "lessons": 25,
+      "price_per_session": "$30"
+    },
+    {
+      "title": "LEARN JAVASCRIPT",
+      "description": "JavaScript is the most popular programming language in the world and powers modern web applications.",
+      "lessons": 18,
+      "price_per_session": "$30"
+    },
+    {
+      "title": "LEARN NODE JS",
+      "description": "Node.js developers are in high demand, and the language is used for traditional web applications and beyond.",
+      "lessons": 18,
+      "price_per_session": "$30"
+    },
+    {
+      "title": "LEARN CLOUD COMPUTING ADVANCE - AWS",
+      "description": "This introduction to cloud computing on Amazon AWS takes you from beginner to advanced levels.",
+      "lessons": 18,
+      "price_per_session": "$35"
+    },
+    {
+      "title": "PYTHON PROGRAMMING - BEGINNER",
+      "description": "Python is a language with simple syntax and a powerful set of libraries.",
+      "lessons": 16,
+      "price_per_session": "$30"
+    },
+    {
+      "title": "Roblox Programming For Beginners",
+      "description": "Explore the dynamic universe of game development with our 'Roblox Game Development Fundamentals' course.",
+      "lessons": 15,
+      "price_per_session": "$32"
+    },
+    {
+      "title": "PYTHON PROGRAMMING - INTERMEDIATE",
+      "description": "Take your Python skills to the next level and start building real applications.",
+      "lessons": 16,
+      "price_per_session": "$35"
+    },
+    {
+      "title": "PYTHON PROGRAMMING - ADVANCE",
+      "description": "If you already know Python basics, then this training is the next step in your Python learning path.",
+      "lessons": 30,
+      "price_per_session": "$30"
+    },
+    {
+      "title": "PYTHON PROGRAMMING GROUP CLASSES - BEGINNER",
+      "description": "Python is a language with simple syntax and a powerful set of libraries.",
+      "lessons": 16,
+      "price_per_session": "$35"
+    },
+    {
+      "title": "Advanced Roblox Scripting Workshop",
+      "description": "Unlock the full potential of your Roblox game development skills in this intermediate-level course.",
+      "lessons": 14,
+      "price_per_session": "$30"
+    },
+    {
+      "title": "Robotics Adventure Awaits: Join Our Summer Camp for Young Tech Wizards!",
+      "description": "This course introduces beginners to the world of robotics.",
+      "lessons": 16,
+      "price_per_session": "$30"
+    },
+    {
+      "title": "Java Project-Based Course",
+      "description": "Java Project-Based Course for Intermediate Level Students.",
+      "lessons": 7,
+      "price_per_session": "$30"
+    },
+    {
+      "title": "Artificial Intelligence Adventures: Building AI Chatbot Like ChatGPT (For Kids)",
+      "description": "Unlock the power of AI chatbots in our 10-day course!",
+      "lessons": 10,
+      "price_per_session": "$30"
+    },
+    {
+      "title": "Python Playground: Create a Hangman Game",
+      "description": "An exciting and engaging course designed specifically for kids to create a Hangman Game.",
+      "lessons": 8,
+      "price_per_session": "$30"
+    },
+    {
+      "title": "Scratch Playground: Create a Maze Game!",
+      "description": "A beginner-level course designed to introduce kids to Scratch programming by creating a Maze Game.",
+      "lessons": 8,
+      "price_per_session": "$30"
+    },
+    {
+      "title": "Artificial Intelligence Essentials: Summer Bootcamp",
+      "description": "A 5-day summer bootcamp exploring the fascinating world of Artificial Intelligence.",
+      "lessons": 5,
+      "price_per_session": "$30"
+    },
+    {
+      "title": "Time Mastery Camp: AI for Jobs, Business, Careers",
+      "description": "AI for Productivity and Time Management course covering AI applications in career and business.",
+      "lessons": 11,
+      "price_per_session": "$30"
+    },
+    {
+      "title": "Build Your Own Theme Park in Roblox",
+      "description": "Roblox Studio fundamentals are taught through fun and interactive projects.",
+      "lessons": 8,
+      "price_per_session": "$30"
+    },
+    {
+      "title": "Java Coding Summer Camp for Young Minds",
+      "description": "A fun-filled, 5-day adventure into the world of programming for young learners.",
+      "lessons": 5,
+      "price_per_session": "$30"
+    },
+    {
+      "title": "AI Camp for Entrepreneurs: Build Business Success",
+      "description": "Embark on a thrilling journey into the world of AI for entrepreneurship.",
+      "lessons": 7,
+      "price_per_session": "$30"
+    },
+    {
+      "title": "ChatGPT Boot Camp: Basics & Best Uses",
+      "description": "An exciting 5-day bootcamp exploring AI chatbots and their best applications.",
+      "lessons": 5,
+      "price_per_session": "$30"
+    },
+    {
+      "title": "Create-A-Bot: A Project-Based Robotics Exploration",
+      "description": "A hands-on camp designed to ignite curiosity in robotics for young learners.",
+      "lessons": 5,
+      "price_per_session": "$30"
+    },
+    {
+        "title": "Introduction to Java and Programming Basics",
+        "description": "Learn the fundamentals of Java programming and core programming concepts.",
+        "lessons": 8,
+        "price_per_session": "$30"
+    },
+    {
+        "title": "Chatbot Creators: Design a ChatGPT-like AI",
+        "description": "Join us on a 7-day bootcamp to step into the world of AI and create your own chatbot like ChatGPT.",
+        "lessons": 7,
+        "price_per_session": "$30"
+    },
+    {
+        "title": "Web Development from Scratch",
+        "description": "Unlock the boundless potential of web development with our essential web course.",
+        "lessons": 6,
+        "price_per_session": "$30"
+    },
+    {
+        "title": "Summer Camp: Introduction to Python",
+        "description": "Step into our 7-day 'Python Project Playground' camp where coding meets creativity!",
+        "lessons": 7,
+        "price_per_session": "$30"
+    },
+    {
+        "title": "AI Secrets Revealed: Master Productivity Hacks",
+        "description": "Boost your productivity with AI! Join our 'AI for Productivity and Time Management' course.",
+        "lessons": 11,
+        "price_per_session": "$30"
+    },
+    {
+        "title": "Summer Bootcamp with JavaScript",
+        "description": "A 5-day deep dive into JavaScript, one of the world's most popular programming languages.",
+        "lessons": 5,
+        "price_per_session": "$30"
+    },
+    {
+        "title": "AI in Entrepreneurship",
+        "description": "Understand AI's role in business success, explore data-driven decision-making, and entrepreneurial AI applications.",
+        "lessons": 7,
+        "price_per_session": "$30"
+    },
+    {
+        "title": "The AI Writer's Masterclass",
+        "description": "Enhance your creative writing skills with AI! Learn AI-assisted storytelling and content generation.",
+        "lessons": 10,
+        "price_per_session": "$32"
+    },
+    {
+        "title": "Web Development Pro: Intermediate Level",
+        "description": "Advance your web development skills with this intermediate-level hands-on course.",
+        "lessons": 8,
+        "price_per_session": "$30"
+    },
+    {
+        "title": "Scratch Playground: Create a Scroller Game",
+        "description": "An interactive Scratch programming course where kids create their own scrolling game.",
+        "lessons": 8,
+        "price_per_session": "$30"
+    },
+    {
+        "title": "AI Pro: Creative Writing Camp for Adults",
+        "description": "Unleash your creativity with AI-powered writing tools in this specialized camp for adults.",
+        "lessons": 10,
+        "price_per_session": "$30"
+    },
+    {
+        "title": "Python Playground: Create Your Own Snake Game",
+        "description": "Learn Python programming by building a classic Snake game from scratch.",
+        "lessons": 8,
+        "price_per_session": "$30"
+    },
+    {
+        "title": "Build Your Own Calculator using Python (For Kids)",
+        "description": "A fun and engaging bootcamp where kids learn programming basics by building a calculator.",
+        "lessons": 8,
+        "price_per_session": "$30"
+    },
+    {
+        "title": "Python Playground: Create a Tic Tac Toe Game",
+        "description": "An interactive, hands-on tutorial for building a Tic Tac Toe game using Python.",
+        "lessons": 8,
+        "price_per_session": "$30"
+    },
+    {
+        "title": "Scratch Playground: Create a Flappy Bird Game",
+        "description": "A beginner-friendly Scratch course where kids recreate the famous Flappy Bird game.",
+        "lessons": 8,
+        "price_per_session": "$30"
+    },
+    {
+        "title": "HTML, CSS, JavaScript: 7-Day Summer Bootcamp",
+        "description": "Jump into the world of coding with our immersive 7-day web development camp.",
+        "lessons": 7,
+        "price_per_session": "$30"
+    },
+    {
+        "title": "Hands-on Java: Project-based Learning",
+        "description": "Embark on a coding adventure with Java through hands-on projects and real-world applications.",
+        "lessons": 7,
+        "price_per_session": "$30"
+    },
+    {
+        "title": "Python Playground: Create a Memory Game",
+        "description": "A beginner-friendly Python course focused on developing a fun and interactive memory game.",
+        "lessons": 8,
+        "price_per_session": "$30"
+    },
+    {
+        "title": "Summer Bootcamp: 5-Day Scratch Programming",
+        "description": "A 5-day Scratch programming adventure designed for beginners to learn coding fundamentals.",
+        "lessons": 5,
+        "price_per_session": "$30"
+    },
+    {
+        "title": "5-Day Summer Camp: Python for Beginners",
+        "description": "A beginner-friendly camp introducing Python programming in a fun and engaging way.",
+        "lessons": 5,
+        "price_per_session": "$30"
+    },
+    {
+        "title": "Build a Text Analyzer using Python (For Kids)",
+        "description": "An educational bootcamp where kids learn to build a text analyzer using Python.",
+        "lessons": 8,
+        "price_per_session": "$30"
+    },
+    {
+        "title": "Scratch Playground: Create a Platformer Game",
+        "description": "An intermediate-level Scratch course where kids develop their own platformer game.",
+        "lessons": 8,
+        "price_per_session": "$30"
+    },
+    {
+        "title": "Introduction to Artificial Intelligence",
+        "description": "A beginner's guide to AI concepts and applications using Python.",
+        "lessons": 5,
+        "price_per_session": "$30"
+    },
+    {
+        "title": "Python Playground: Create a Rock, Paper, Scissors Game",
+        "description": "An engaging course where kids build a Rock, Paper, Scissors game using Python.",
+        "lessons": 8,
+        "price_per_session": "$30"
+    },
+    {
+        "title": "AI in Stock Market Success: Career Growth Camp",
+        "description": "Are you ready to unlock the secrets of predicting stock prices using AI? 📈🤖 Join our immersive course!",
+        "lessons": 8,
+        "price_per_session": "$30"
+      },
+      {
+        "title": "From Beginner to AI Pro: Kickstart Your Journey With Artificial Intelligence! (For Kids)",
+        "description": "Dive into the world of AI! 🤖 Join our 'Introduction to Artificial Intelligence' course and unlock the potential of AI.",
+        "lessons": 10,
+        "price_per_session": "$30"
+      },
+      {
+        "title": "Game Development Using Python",
+        "description": "Welcome to the 'Introduction to Python Game Development' course! In this course, you'll embark on an exciting journey to create your own games.",
+        "lessons": 20,
+        "price_per_session": "$30"
+      },
+      {
+        "title": "Build an Image Manipulator Using Python Bootcamp for Kids",
+        "description": "This bootcamp is designed to introduce children to the exciting world of image manipulation using Python!",
+        "lessons": 4,
+        "price_per_session": "$30"
+      },
+      {
+        "title": "Build a Weather App Using Python Bootcamp for Kids",
+        "description": "Learn how to build a weather app using Python in this fun and interactive bootcamp for kids.",
+        "lessons": 8,
+        "price_per_session": "$30"
+      },
+      {
+        "title": "Build Your Own Roblox Battle Arena",
+        "description": "Roblox Studio fundamentals are taught through fun and interactive projects. Lectures, projects, and hands-on activities included!",
+        "lessons": 8,
+        "price_per_session": "$30"
+      },
+      {
+        "title": "The Millionaire's AI Playbook: Learn How to Predict Stock Prices! (For Kids)",
+        "description": "Learn to predict stock prices using the incredible potential of AI and machine learning in our comprehensive course.",
+        "lessons": 10,
+        "price_per_session": "$30"
+      },
+      {
+        "title": "Machine Learning: 7-Day Project-Based Summer Camp",
+        "description": "Join our 'Machine Learning Mania' camp for a 7-day tech adventure! Kids will tackle machine learning projects step by step.",
+        "lessons": 7,
+        "price_per_session": "$30"
+      },
+      {
+        "title": "AI Pro Camp: Career Growth Catalyst",
+        "description": "Our 'Intro to AI for Adults' course is designed to equip professionals with essential AI knowledge and practical skills.",
+        "lessons": 20,
+        "price_per_session": "$30"
+      },
+      {
+        "title": "Minecraft Java Programming for Beginners",
+        "description": "Session-1: Introduction to Java programming and Minecraft. Lesson 2: Getting Started in Creative Mode.",
+        "lessons": 7,
+        "price_per_session": "$30"
+      },
+      {
+        "title": "Build a Chatbot Using Python Bootcamp for Kids",
+        "description": "This bootcamp is a fun and interactive program designed to teach children how to create their own chatbot using Python.",
+        "lessons": 8,
+        "price_per_session": "$30"
+      },
+      {
+        "title": "Build a Password Generator Using Python Bootcamp for Kids",
+        "description": "Welcome to the 'Build a Password Generator using Python Bootcamp for Kids!' In this bootcamp, you will learn how to create a secure password generator.",
+        "lessons": 8,
+        "price_per_session": "$30"
+      },
+      {
+        "title": "Scratch Playground: Create a Space Game!",
+        "description": "Scratch Playground: Create a Space Game is an intermediate-level course designed to introduce kids to game development using Scratch.",
+        "lessons": 8,
+        "price_per_session": "$30"
+      },
+      {
+        "title": "Create Your Own Roblox Obstacle Course",
+        "description": "Roblox enthusiasts who want to learn how to design and build their own custom obstacle courses will love this hands-on course!",
+        "lessons": 8,
+        "price_per_session": "$30"
+      },
+      {
+        "title": "Java Minecraft: Creative or Survival Mode",
+        "description": "This class is designed for complete beginners to learn Minecraft Java programming, focusing on Creative and Survival modes.",
+        "lessons": 7,
+        "price_per_session": "$30"
+      },
+      {
+        "title": "AI Camp for Jobs & Business: Build Your Own ChatGPT 🌟",
+        "description": "Welcome to the Chatbot Mastery Course! 🎓 Get ready to unlock the secrets of building intelligent AI chatbots.",
+        "lessons": 10,
+        "price_per_session": "$30"
+      },
+      {
+        "title": "HTML, CSS, JavaScript Essentials: 5-Day Coding Bootcamp",
+        "description": "Unleash your creativity in our fun and interactive 5-day summer camp. No prior experience needed!",
+        "lessons": 5,
+        "price_per_session": "$30"
+      }
+]
